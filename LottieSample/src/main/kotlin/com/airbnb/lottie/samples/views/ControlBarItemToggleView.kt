@@ -2,15 +2,15 @@ package com.airbnb.lottie.samples.views
 
 import android.content.Context
 import android.graphics.Color
-import androidx.annotation.DrawableRes
+import android.support.annotation.DrawableRes
 import androidx.core.content.ContextCompat
 import androidx.core.graphics.drawable.DrawableCompat
 import android.util.AttributeSet
 import android.view.View
 import android.widget.ImageView
 import android.widget.LinearLayout
-import androidx.core.view.isVisible
-import androidx.core.view.setPadding
+import android.support.v4.view.isVisible
+import android.support.v4.view.setPadding
 import com.airbnb.lottie.samples.R
 import com.airbnb.lottie.samples.getText
 import kotlinx.android.synthetic.main.item_view_control_bar.view.*

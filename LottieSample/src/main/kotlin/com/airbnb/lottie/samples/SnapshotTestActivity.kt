@@ -8,7 +8,7 @@ import android.graphics.PorterDuff
 import android.graphics.Typeface
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import androidx.core.view.isVisible
+import android.support.v4.view.isVisible
 import com.airbnb.lottie.FontAssetDelegate
 import com.airbnb.lottie.ImageAssetDelegate
 import com.airbnb.lottie.LottieComposition

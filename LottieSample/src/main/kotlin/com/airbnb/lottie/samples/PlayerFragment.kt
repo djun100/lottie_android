@@ -11,8 +11,8 @@ import android.view.*
 import android.widget.EditText
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.content.ContextCompat
-import androidx.core.view.children
-import androidx.core.view.isVisible
+import android.support.v4.view.children
+import android.support.v4.view.isVisible
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.Lifecycle
 import androidx.transition.AutoTransition

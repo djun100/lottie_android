@@ -46,7 +46,7 @@
         <include layout="@layout/control_bar" />
     </LinearLayout>
 
-    <androidx.appcompat.widget.Toolbar
+    <android.support.v7.widget.Toolbar
         android:id="@+id/toolbar"
         android:layout_width="match_parent"
         android:layout_height="?attr/actionBarSize"

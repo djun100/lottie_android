@@ -1,6 +1,7 @@
 package com.airbnb.lottie.parser;
 
 import android.graphics.Color;
+import android.support.annotation.IntRange;
 
 import com.airbnb.lottie.model.content.GradientColor;
 import com.airbnb.lottie.parser.moshi.JsonReader;
@@ -10,7 +11,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-import androidx.annotation.IntRange;
+//import android.support.annotation.IntRange;
 
 public class GradientColorParser implements com.airbnb.lottie.parser.ValueParser<GradientColor> {
   /**

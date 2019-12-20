@@ -9,8 +9,8 @@ import android.util.Log
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.app.ActivityCompat
 import androidx.core.content.ContextCompat
-import androidx.core.view.children
-import androidx.core.view.doOnNextLayout
+import android.support.v4.view.children
+import android.support.v4.view.doOnNextLayout
 import com.airbnb.lottie.L
 import com.airbnb.lottie.LottieAnimationView
 import com.airbnb.lottie.LottieCompositionFactory

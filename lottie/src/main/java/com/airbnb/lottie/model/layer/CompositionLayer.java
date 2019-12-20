@@ -19,9 +19,9 @@ import com.airbnb.lottie.value.LottieValueCallback;
 import java.util.ArrayList;
 import java.util.List;
 
-import androidx.annotation.FloatRange;
-import androidx.annotation.Nullable;
-import androidx.collection.LongSparseArray;
+import android.support.annotation.FloatRange;
+import android.support.annotation.Nullable;
+import android.support.v4.util.LongSparseArray;
 
 public class CompositionLayer extends BaseLayer {
   @Nullable private BaseKeyframeAnimation<Float, Float> timeRemapping;
